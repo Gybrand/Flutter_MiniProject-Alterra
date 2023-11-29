@@ -1,0 +1,9 @@
+dev_dependencies:
+  flutter_launcher_icons: "^0.13.1"
+
+flutter_icons:
+  android: "launcher_icon"
+  image_path: "lib/Assets/splash.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "lib/Assets/splash.png"
+  min_sdk_android: 21 # android min sdk min:16, default 21
